@@ -3,7 +3,7 @@ title: "ZySec Recharged: Month #1"
 datePublished: Fri Mar 29 2024 11:00:32 GMT+0000 (Coordinated Universal Time)
 cuid: clucjyi3f000008jsck57c4pg
 slug: zysec-recharged-month-1
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1710938880835/4ba6d01a-d261-4f31-9658-25c9f6f82d8b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712345353782/bebaa827-df90-4d49-a68e-198c89f7027a.png
 
 ---
 
