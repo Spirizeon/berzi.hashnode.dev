@@ -1,5 +1,5 @@
 ---
-title: "ZySec: Day #7"
+title: "⚙️ Blue Team: OWASP and GitSecOps"
 datePublished: Thu Dec 21 2023 16:05:06 GMT+0000 (Coordinated Universal Time)
 cuid: clqfe8ubj000008js9jaf1u5s
 slug: zysec-day-7
