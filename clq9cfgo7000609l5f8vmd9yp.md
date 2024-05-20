@@ -1,5 +1,5 @@
 ---
-title: "ZySec: Day #3"
+title: "⚖️ Blue Team: Models and Ethics"
 datePublished: Sun Dec 17 2023 10:27:39 GMT+0000 (Coordinated Universal Time)
 cuid: clq9cfgo7000609l5f8vmd9yp
 slug: zysec-day-3
