@@ -1,5 +1,5 @@
 ---
-title: "ZySec: Day #6"
+title: "🔗 Blue Team: Frameworks"
 datePublished: Wed Dec 20 2023 17:37:05 GMT+0000 (Coordinated Universal Time)
 cuid: clqe23aay000308kx1jrn9hhc
 slug: zysec-day-6
