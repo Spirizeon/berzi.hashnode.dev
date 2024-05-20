@@ -1,5 +1,5 @@
 ---
-title: "Reverse engineering code with Assembly"
+title: "🦾 Reverse engineering code with Assembly"
 datePublished: Thu Jan 04 2024 14:33:04 GMT+0000 (Coordinated Universal Time)
 cuid: clqzb4ewu000309juckt86g7b
 slug: reverse-engineering-code-with-assembly
