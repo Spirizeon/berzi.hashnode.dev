@@ -1,8 +1,8 @@
 ---
-title: "ZySec: Day #14"
+title: "🤖 Virtualising machines"
 datePublished: Sun Jan 14 2024 14:08:44 GMT+0000 (Coordinated Universal Time)
 cuid: clrdknmx0000109jsf5n10u77
-slug: zysec-day-14
+slug: virtualising-machines
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705239516544/17a17696-a558-4adf-bc1d-0d4e79a2ec71.png
 
 ---
