@@ -1,5 +1,5 @@
 ---
-title: "Web Pen-testing strategies"
+title: "🕷️ Web Pen-testing strategies"
 datePublished: Fri Mar 29 2024 11:00:32 GMT+0000 (Coordinated Universal Time)
 cuid: clucjyi3f000008jsck57c4pg
 slug: zysec-recharged-month-1
