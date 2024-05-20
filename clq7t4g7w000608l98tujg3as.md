@@ -1,5 +1,5 @@
 ---
-title: "ZySec: Day #1"
+title: "Common terminology for the general"
 datePublished: Sat Dec 16 2023 08:39:26 GMT+0000 (Coordinated Universal Time)
 cuid: clq7t4g7w000608l98tujg3as
 slug: zysec-day-1
