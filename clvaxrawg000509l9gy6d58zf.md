@@ -1,8 +1,8 @@
 ---
-title: "Zysec Recharged: Month #2"
+title: "🔥Setting up Malware development Lab"
 datePublished: Mon Apr 22 2024 12:31:01 GMT+0000 (Coordinated Universal Time)
 cuid: clvaxrawg000509l9gy6d58zf
-slug: zysec-recharged-month-2
+slug: setting-up-malware-development-lab
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712671527377/edd6789d-1ab8-4aad-897a-db05808fa800.png
 
 ---
@@ -52,11 +52,31 @@ Also, make sure you are familiar with:
 * virtualization (coz we ain't detonating malware on our own computer)
     
 
-## The Dive: How to jump in
-
 The best way to learn something is by trying it out first then going deeper theory wise. That being said, let's build malware... (Oh and btw,don't forget to turn off all AVs while building or running it)
 
-## Process Injection (Shellcode based)
+### The Windows API
+
+Understanding the Windows API is crucial since a lot of malware is written in it. It exploits the NT API which is an undocumented API of windows.
+
+Usually the functions obey the convention of &lt;data-type&gt;&lt;function name&gt;, you can notice the trend in the list given below. Also, the function names themselves are pretty self explanatory.
+
+Here's a list of stuff you need to remember:
+
+```plaintext
+DWORD = int32
+SIZE_T = SIZEOF(object)
+VOID = VOID
+PVOID = Pointer to 32-bit variable
+HANDLE = variable for object
+HMODULE = handle for module 
+PCSTR = constant character pointer
+PSTR = chartacter pointer
+PHANDLE = Handle pointer
+CreateFileA = Create a file (ANSI)
+CreateFileW = Create a file (Unicode) 
+```
+
+### Process Injection (Shellcode based)
 
 Shellcode is compiled code written in machine language, that in malware language attempts to make itself run on the system by activities like injecting it into a process.
 
