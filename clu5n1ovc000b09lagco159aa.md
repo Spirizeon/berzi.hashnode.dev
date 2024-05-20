@@ -1,5 +1,5 @@
 ---
-title: "NixOS: OS as Code"
+title: "❄️ NixOS: OS as Code"
 datePublished: Sun Mar 24 2024 14:52:37 GMT+0000 (Coordinated Universal Time)
 cuid: clu5n1ovc000b09lagco159aa
 slug: nixos
