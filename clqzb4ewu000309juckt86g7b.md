@@ -1,8 +1,8 @@
 ---
-title: "ZySec: Day #11"
+title: "Reverse engineering code with Assembly"
 datePublished: Thu Jan 04 2024 14:33:04 GMT+0000 (Coordinated Universal Time)
 cuid: clqzb4ewu000309juckt86g7b
-slug: zysec-day-11
+slug: reverse-engineering-code-with-assembly
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1704378768242/ce6ac4f7-602a-4336-86e4-4070f20a024c.png
 
 ---
