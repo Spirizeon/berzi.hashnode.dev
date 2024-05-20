@@ -1,5 +1,5 @@
 ---
-title: "ZySec: Day #5"
+title: "🐺 Blue Team: Monitoring with Wazuh"
 datePublished: Tue Dec 19 2023 13:51:35 GMT+0000 (Coordinated Universal Time)
 cuid: clqcelfwg000e08lahrqx18l7
 slug: zysec-day-5
