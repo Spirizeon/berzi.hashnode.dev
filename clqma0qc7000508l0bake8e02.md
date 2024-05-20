@@ -1,8 +1,8 @@
 ---
-title: "ZySec: Day #8"
+title: "🔏 Blue Team:  Auditing"
 datePublished: Tue Dec 26 2023 11:41:12 GMT+0000 (Coordinated Universal Time)
 cuid: clqma0qc7000508l0bake8e02
-slug: zysec-day-8
+slug: blue-team-auditing
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703590842357/40ddcd4d-816f-4ad9-a203-c299ab4932e0.png
 
 ---
