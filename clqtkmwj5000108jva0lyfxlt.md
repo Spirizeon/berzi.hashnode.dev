@@ -1,5 +1,5 @@
 ---
-title: "Setting up Arch"
+title: "🛠️ Setting up Arch"
 datePublished: Sun Dec 31 2023 14:12:46 GMT+0000 (Coordinated Universal Time)
 cuid: clqtkmwj5000108jva0lyfxlt
 slug: setting-up-arch
