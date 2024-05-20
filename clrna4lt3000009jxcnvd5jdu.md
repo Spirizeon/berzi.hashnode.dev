@@ -1,8 +1,8 @@
 ---
-title: "ZySec: Day #16"
+title: "Uniqueness of Arch Linux"
 datePublished: Sun Jan 21 2024 09:11:42 GMT+0000 (Coordinated Universal Time)
 cuid: clrna4lt3000009jxcnvd5jdu
-slug: zysec-day-16
+slug: uniqueness-of-arch-linux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705827084794/1b99b1ad-0077-4eb8-a465-c4ca9c240166.png
 
 ---
