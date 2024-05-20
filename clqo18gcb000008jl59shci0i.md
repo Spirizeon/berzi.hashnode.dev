@@ -1,8 +1,8 @@
 ---
-title: "ZySec: Day #9"
+title: "📕 Blue Team: Playbooks"
 datePublished: Wed Dec 27 2023 17:10:49 GMT+0000 (Coordinated Universal Time)
 cuid: clqo18gcb000008jl59shci0i
-slug: zysec-day-9
+slug: blue-team-playbooks
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703694285138/32165e24-0355-49d8-bfa3-abd3ab1df245.png
 
 ---
