@@ -105,7 +105,7 @@ Meanwhile, the service only holds the service cache which stores the user authen
 
 ## Protocol workflow
 
-![Image](https://media.discordapp.net/attachments/725059333871632416/1331131433917354147/image.png?ex=67908041&is=678f2ec1&hm=87e318ceafae3eb6db30d909d28cae737d11da5c6001345202af8f3105fb57c8&=&format=webp&quality=lossless&width=950&height=560 align="left")
+![https://cdn.discordapp.com/attachments/725059333871632416/1333061681097605140/IMG-20250121-WA0004.jpg?ex=679d74af&is=679c232f&hm=7d4735f02204049a3a3f33f7a6c81beadf873b4ef0c9013c995c1264ce7731d4&](https://cdn.discordapp.com/attachments/725059333871632416/1333061681097605140/IMG-20250121-WA0004.jpg?ex=679d74af&is=679c232f&hm=7d4735f02204049a3a3f33f7a6c81beadf873b4ef0c9013c995c1264ce7731d4& align="left")
 
 The user sends a request for a “Ticket granting ticket” that can be sent to the TGS to get a service ticket. The auth service matches the user id with the respective client secret key (also ensuring if the user exists) and then sends back the TGT metadata encrypted with the client secret key and the TGT encrypted with the TGS secret key.
 
