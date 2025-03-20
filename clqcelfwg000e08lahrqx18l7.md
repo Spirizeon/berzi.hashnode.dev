@@ -1,9 +1,9 @@
 ---
-title: "🐺 Blue Team: Monitoring with Wazuh"
-datePublished: Tue Dec 19 2023 13:51:35 GMT+0000 (Coordinated Universal Time)
+title: "Setting up Wazuh: XDR for Infra monitoring"
+datePublished: Wed Mar 19 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqcelfwg000e08lahrqx18l7
 slug: zysec-day-5
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702993882336/356c27d0-f7e7-4e4f-8405-430e1d951f46.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742476678889/ef7ba252-ee88-4563-9d5a-9c0a9923a898.png
 
 ---
 
