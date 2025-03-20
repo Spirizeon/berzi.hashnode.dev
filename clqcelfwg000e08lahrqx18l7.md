@@ -2,7 +2,7 @@
 title: "Setting up Wazuh: XDR for Infra monitoring"
 datePublished: Wed Mar 19 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqcelfwg000e08lahrqx18l7
-slug: zysec-day-5
+slug: wazuh-infrasec
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742476678889/ef7ba252-ee88-4563-9d5a-9c0a9923a898.png
 
 ---
