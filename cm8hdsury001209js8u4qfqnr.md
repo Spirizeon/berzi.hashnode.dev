@@ -3,7 +3,6 @@ title: "Azure's defense against Subdomain takeover"
 datePublished: Thu Mar 20 2025 13:22:55 GMT+0000 (Coordinated Universal Time)
 cuid: cm8hdsury001209js8u4qfqnr
 slug: azures-defense-against-subdomain-takeover
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742476013895/575da1b6-910e-4ab0-aad2-8261a489e235.png
 
 ---
 
