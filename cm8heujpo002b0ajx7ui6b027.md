@@ -3,7 +3,6 @@ title: "Data Security for AI: Homomorphic Encryption"
 datePublished: Thu Mar 20 2025 13:52:13 GMT+0000 (Coordinated Universal Time)
 cuid: cm8heujpo002b0ajx7ui6b027
 slug: data-security-for-ai-homomorphic-encryption
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742478714115/420dc6a0-e53e-49f3-89fa-1811cb968cbc.png
 
 ---
 
