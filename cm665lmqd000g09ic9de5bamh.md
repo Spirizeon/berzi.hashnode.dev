@@ -3,7 +3,7 @@ title: "Active Directory: Hell-bent on Kerberos"
 datePublished: Tue Jan 21 2025 07:28:28 GMT+0000 (Coordinated Universal Time)
 cuid: cm665lmqd000g09ic9de5bamh
 slug: hell-bent-on-kerberos
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737441148069/942fdda4-9f85-48e3-b108-1d4ea74f7bb0.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767961558319/a9fbc22c-2c21-41fa-a190-9432c975bb5c.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1737466380767/0c211e8d-a095-4eea-aa59-758e97a2de9c.png
 
 ---
