@@ -3,7 +3,7 @@ title: "TryHackMe Anonymous CTF Writeup 2025"
 datePublished: Sun May 04 2025 13:14:59 GMT+0000 (Coordinated Universal Time)
 cuid: cma9obziw000n09kzbjc4ehi2
 slug: tryhackme-anonymous-ctf-writeup-2025
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7vmA7Fx1Nyo/upload/d3c43037f1f00e2edd76f947a6f7fc5b.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767962217814/837bf381-7bf2-469a-be79-0e0c7d838584.jpeg
 
 ---
 
