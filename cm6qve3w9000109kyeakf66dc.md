@@ -3,7 +3,7 @@ title: "Bypass Really Simple Security Tryhackme Writeup/Walkthrough"
 datePublished: Tue Feb 04 2025 19:25:51 GMT+0000 (Coordinated Universal Time)
 cuid: cm6qve3w9000109kyeakf66dc
 slug: bypass-really-simple-security-tryhackme-writeupwalkthrough
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1738697135729/4cc8da88-e56c-438e-bcf4-0c2a6b259f9e.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767963158389/6d997437-5539-4cc5-be3a-8ec7ab486f1b.jpeg
 
 ---
 
