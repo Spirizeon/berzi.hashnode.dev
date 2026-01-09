@@ -3,7 +3,7 @@ title: "Hacking your way back into Windows"
 datePublished: Thu Jan 16 2025 13:15:17 GMT+0000 (Coordinated Universal Time)
 cuid: cm5zcsdw5000808jm87bj8fgi
 slug: hacking-your-way-back-into-windows
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1737033115462/24b6a93b-16e4-49c7-b576-c624c726e8b4.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767961650511/d310f74b-da76-4618-b570-bb3848ad13b7.jpeg
 
 ---
 
