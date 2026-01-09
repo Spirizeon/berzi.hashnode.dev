@@ -3,7 +3,7 @@ title: "Playing Offense: AWS Edition"
 datePublished: Sat Jan 04 2025 14:12:18 GMT+0000 (Coordinated Universal Time)
 cuid: cm5i9jh2x00050amk0dpcfy97
 slug: playing-offense-aws-edition
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735979547569/0da907e5-ac49-408a-a5a7-8ab5a839589b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767961741390/432e8cb0-699f-40f3-ac93-4ad1b1fc2030.jpeg
 
 ---
 
