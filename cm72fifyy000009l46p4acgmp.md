@@ -3,6 +3,7 @@ title: "eJPT-CTF-1: Assessment Methodologies: Information Gathering CTF 1"
 datePublished: Wed Feb 12 2025 21:34:33 GMT+0000 (Coordinated Universal Time)
 cuid: cm72fifyy000009l46p4acgmp
 slug: ejpt-ctf-1-assessment-methodologies-information-gathering-ctf-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767961420248/c0f53216-934b-410a-8d24-08a45c93b713.jpeg
 
 ---
 
